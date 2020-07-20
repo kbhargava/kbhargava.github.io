@@ -85,7 +85,7 @@ author:
   bio              : "Post doctoral Associate at University of Maryland, interesed in Numerical Weather Prediction and Data assimilation"
   location         : "College Park, Maryland"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=TXkek88AAAAJ&hl=en"
   email            :
   researchgate     :  "https://www.researchgate.net/profile/Kriti_Bhargava3" # example: "https://www.researchgate.net/profile/yourprofile"
